@@ -1,0 +1,22 @@
+.home-notice-date h6{
+	text-align: center;
+	text-transform: uppercase;
+	background: #0087fd;
+	color: #fff;
+	padding: 10px;
+}
+.home-notice-body h5{
+	font-weight: 600;
+	font-family: 'Patua One', cursive;
+	letter-spacing: 1px;
+}
+.home-notice-body p{
+	text-align: justify;
+	font-size: 13px;
+}
+
+.home-upcoming-body h5{
+	font-family: 'Patua One', cursive;
+	font-weight: 600;
+	letter-spacing: 1px;
+}

@@ -1,0 +1,26 @@
+h1,h2,h3,h4,h5,h6{
+	font-family: 'Patua One', 'cursive';
+}
+p{
+	color: #555;
+	letter-spacing: 1px;
+	font-size: 14px;
+}
+.pad-0{
+	padding: 0;
+}
+.padding-tb{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+
+
+
+
+
+
+
+
+
+

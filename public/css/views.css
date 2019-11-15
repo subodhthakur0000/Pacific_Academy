@@ -1,0 +1,10 @@
+.views-image{
+	height: 400px;
+	overflow: hidden;
+	border-radius: 100px;
+}
+.views-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}

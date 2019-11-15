@@ -1,0 +1,22 @@
+/*home-footer*/
+.home-footer-mission h4{
+	text-align: left;
+	padding-top: 20px;
+}
+.home-footer-mission p{
+	text-align: justify;
+}
+.footer-copyright p{
+	text-align: center;
+	font-size: 14px;
+}
+.footer-designed p{
+	text-align: center;
+	font-size: 14px;
+}
+.home-footer-mission p>a>i{
+	margin-right: 10px;
+}
+.home-footer-mission p>a{
+	text-decoration: none;
+}

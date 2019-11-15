@@ -1,0 +1,24 @@
+.career-vacancy h4{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+	padding: 50px 50px 50px 50px;
+	font-family: 'Patua One', cursive;
+	letter-spacing: 1px;
+}
+
+.career-grade{
+	text-align: center;
+	color: #fff;
+	background-color: #0087fd;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	font-family: 'Patua One', cursive;
+	letter-spacing: 1px;
+	font-weight: 300;
+}
+
+.p{
+	text-align: justify;
+	padding-bottom: 250px;
+}

@@ -1,0 +1,26 @@
+.school-overview h4{
+	text-align: center;
+	font-size: 34px;
+	font-weight: 700;
+}
+
+.about-school-image{
+	height: 400px;
+	overflow: hidden;
+}
+.about-school-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
+.about-school-description p{
+	text-align: justify;
+}
+
+
+
+.about-aim h5{
+	font-size: 24px;
+	font-weight: 700;
+	text-align: center;
+}

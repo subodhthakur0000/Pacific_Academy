@@ -1,0 +1,43 @@
+
+.blog-pad{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+
+
+
+.blog-paci h4{
+	text-align: center;
+	font-weight: 500;
+	font-size: 30px;
+	letter-spacing: 1px;
+	font-family: 'Patua One', cursive;
+	padding-top: 20px;
+
+}
+
+.blog-image{
+	height: 275px;
+	overflow: hidden;
+	text-align: center;
+}
+.blog-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+	object-position: 50% 50%;
+}
+
+.blog-detail h6{
+	text-align: left;
+}
+.blog-detai p{
+	text-align: justify;
+}
+.btn-blog {
+	background-color: #ddd;
+	color: #337ab7;
+}

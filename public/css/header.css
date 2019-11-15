@@ -1,0 +1,47 @@
+/*subheader*/
+.home-subheader-logo{
+	height: 50px;
+	width: 50px;
+	overflow: hidden;
+}
+.home-subheader-logo img{
+	height: 100%;
+	width: 100%;
+	object-fit:cover;
+}
+.home-subheader-text h4{
+	text-align: right;
+	text-transform: uppercase;
+	color: #000195;
+}
+.home-subheader-text p{
+	font-size: 12px;
+	text-align: right;
+	text-transform: uppercase;
+	color: #ffc000;
+	margin-bottom: 0;
+}
+.subheader-padding{
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+/*header css00*/
+.header-bg{
+	background: #0087fd;
+	text-transform: uppercase;
+}
+.header-menu li>a {
+	color: #fff!important;
+	font-size: 14px;
+	letter-spacing: 1px;
+}
+.header-menu li{
+	margin-left: 5px;
+	margin-right: 5px;
+}
+
+.dropdown:hover>.dropdown-menu{
+	display: block;
+	margin-top: -5px;
+}

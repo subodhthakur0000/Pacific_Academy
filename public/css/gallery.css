@@ -1,0 +1,26 @@
+.gallery-intro h4{
+	text-align: center;
+	text-transform: uppercase;
+	color: #db232b;
+	font-family: 'Patua One', cursive;
+	padding-top: 50px;
+	padding-bottom: 10px;
+	letter-spacing: 1px;
+}
+
+
+
+
+
+.gallery-image{
+	height: 250px;
+	overflow: hidden;
+	padding: 10px 10px;
+	margin-bottom: 30px;
+	box-shadow: 0 0 5px 0 #999;
+}
+.gallery-image img{
+	height: 100%;
+	width: 100%;
+	object-fit: cover;
+}
